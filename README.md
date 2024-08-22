@@ -2,5 +2,15 @@
 > Event driven architecture.
 
 #### Architecture diagram
-![image](https://github.com/user-attachments/assets/489d0f6e-77e6-4d81-ab74-d3596387e1af)
+![image](https://github.com/user-attachments/assets/fb04dc79-6db8-4c2f-848d-55f57c2b1610)
+
+
+#### Components 
+- API gateway
+- Database
+- Kafka
+- Elastic Search
+- Search Service
+- ElasticConsumer Service
+- Restaurant service
 
